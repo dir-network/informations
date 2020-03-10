@@ -17,9 +17,8 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
+* [Why this network](#Why-this-network)
+* [Our imagination](#Our-imagination)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
@@ -32,7 +31,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Why this network
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
