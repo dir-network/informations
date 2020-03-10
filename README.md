@@ -17,8 +17,8 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Why this network?[Why-this-network)
-* [Implementation](#Implementation)
+* [Why this network?](#Why-this-network)
+* [How does it works?](#how-does-it-works)
   * [Webserver](#Webserver)
   * [Uploader](#Uploader)
 * [File Sharing](#File-Sharing)
