@@ -17,34 +17,21 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Why this network](#Why-this-network)
-* [Our imagination](#Our-imagination)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Why this network?[Why-this-network)
+* [Implementation](#Implementation)
+  * [Webserver](#Webserver)
+  * [Uploader](#Uploader)
+* [File Sharing](#File-Sharing)
+* [Contact](#Contact)
 
 
 
 <!-- ABOUT THE PROJECT -->
-## Why this network
+## Why this network?
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Dieses Netzwerk soll dafür da sein, dass es weniger Phishing Attacken auf kleinere angehende User gibt, welche sich ein paar Accounts checken wollen. Es gibt im moment einfach viel zu viele gratis Cracks, welche nur darauf ausgelegt sind den Benutzer damit zu schaden beziehungsweise sich selber zu bereichern.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Als die Szene noch kleiner war, war hier alles ein bisschen offener und man sich gerne ausgetauscht. Heute wird jeder Sourcecode kopiert und als sein eigener ausgegeben. Sowas sollte sich ändern.
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
