@@ -33,19 +33,35 @@ Dieses Netzwerk soll dafür da sein, dass es weniger Phishing Attacken auf klein
 
 Als die Szene noch kleiner war, war hier alles ein bisschen offener und man sich gerne ausgetauscht. Heute wird jeder Sourcecode kopiert und als sein eigener ausgegeben. Sowas sollte sich ändern.
 
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
-
 <!-- GETTING STARTED -->
-## Getting Started
+## How does it works?
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Basically it is a very simple solution. There are always different people involved in such software.
+* Someone who has the idea and (mostly) develops the software.
+* Someone who uses this software actively (with updates).
+* Someone who advertises this software (YouTube videos or similar).
+
+We focus here on each group so that it can become a gathering point. Basically we want to start inviting the three to our network.
+
+We want to divide the three groups into roles, that would be:
+* Rank 3 (lowest) - developer
+* Rank 2 (middle) user
+* Rank 1 (highest) - video producer
+
+We made this arrangement because our focus should first be on expanding the network and gathering contacts. After we have reached a certain memorandum, the focus should then be implemented. But since we are a network, we will then start a vote.
+
+# Webserver
+
+Was hat ein Webserver mit dem Netzwerk zutun?
+Ganz einfach. Da wir eine Sammelstelle brauchen und Daten anfallen werden, welche von Uploadern hochgeladen und von Benutzern zur Werbung und Nutzung runtergeladen werden.
+
+Hier ist in Planung das wir folgende Sachen mit einfügen wollen:
+* Eigene gekürzte Links (mit und ohne Werbefläche)
+* Ein eigenes "Pastebin"
+* Forum
+* Discord (für schnellen Support und Austausch)
+* Eigene Generatoren für bereitstellung von nicht gebrauchten Accounts und Combos.
+
 
 ### Prerequisites
 
