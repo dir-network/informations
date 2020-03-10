@@ -29,9 +29,9 @@
 <!-- ABOUT THE PROJECT -->
 # Why this network?
 
-Dieses Netzwerk soll dafür da sein, dass es weniger Phishing Attacken auf kleinere angehende User gibt, welche sich ein paar Accounts checken wollen. Es gibt im moment einfach viel zu viele gratis Cracks, welche nur darauf ausgelegt sind den Benutzer damit zu schaden beziehungsweise sich selber zu bereichern.
+This network is there to ensure that there are fewer phishing attacks on smaller budding users who want to check a few accounts. There are just too many free cracks at the moment, which are only designed to harm the user or to enrich themselves.
 
-Als die Szene noch kleiner war, war hier alles ein bisschen offener und man sich gerne ausgetauscht. Heute wird jeder Sourcecode kopiert und als sein eigener ausgegeben. Sowas sollte sich ändern.
+When the scene was even smaller, everything was a little more open and people were happy to exchange ideas. Today, each source code is copied and output as its own. Something should change.
 
 <!-- GETTING STARTED -->
 # How does it works?
@@ -52,15 +52,15 @@ We made this arrangement because our focus should first be on expanding the netw
 
 ### Webserver
 
-Was hat ein Webserver mit dem Netzwerk zutun?
-Ganz einfach. Da wir eine Sammelstelle brauchen und Daten anfallen werden, welche von Uploadern hochgeladen und von Benutzern zur Werbung und Nutzung runtergeladen werden.
+What does a web server have to do with the network?
+Very easily. Because we need a collection point and there will be data that will be uploaded by uploaders and downloaded by users for advertising and use.
 
-Hier ist in Planung das wir folgende Sachen mit einfügen wollen:
-* Eigene gekürzte Links (mit und ohne Werbefläche)
-* Ein eigenes "Pastebin"
+Here is in planning that we want to include the following things:
+* Your own shortened links (with and without advertising space)
+* Your own "pastebin"
 * Forum
-* Discord (für schnellen Support und Austausch)
-* Eigene Generatoren für bereitstellung von nicht gebrauchten Accounts und Combos.
+* Discord (for quick support and exchange)
+* Own generators for the provision of unused accounts and combos.
 
 ### Uploader
 Our idea is that we assign different roles.
